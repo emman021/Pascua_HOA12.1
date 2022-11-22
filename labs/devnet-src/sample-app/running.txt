@@ -1,0 +1,21 @@
+CONTAINER ID   IMAGE         COMMAND                  CREATED         STATUS                     PORTS                                       NAMES
+7e8bf423bf47   sampleapp     "/bin/sh -c 'python3…"   8 minutes ago   Up 8 minutes               0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+2d68005a63d7   ubuntu        "bash"                   6 days ago      Exited (255) 4 hours ago                                               boring_robinson
+036b5702d5fa   nginx         "/docker-entrypoint.…"   6 days ago      Exited (255) 4 hours ago   0.0.0.0:8080->80/tcp, :::8080->80/tcp       intelligent_allen
+cac3dc213f91   nginx         "/docker-entrypoint.…"   6 days ago      Created                                                                great_keller
+73b782fc77cd   nginx         "/docker-entrypoint.…"   6 days ago      Exited (137) 6 days ago                                                sweet_williamson
+32775da68922   nginx         "/docker-entrypoint.…"   6 days ago      Exited (0) 6 days ago                                                  exciting_goldberg
+091ba906b46b   ubuntu        "bash"                   6 days ago      Exited (255) 4 hours ago                                               beautiful_swartz
+2d59f4075b44   ubuntu        "bash"                   6 days ago      Exited (255) 4 hours ago                                               charming_payne
+20ce6f75ad5f   ubuntu        "bash"                   6 days ago      Exited (255) 4 hours ago                                               recursing_villani
+153e8635697f   ubuntu        "bash"                   6 days ago      Exited (0) 6 days ago                                                  competent_robinson
+bbf00be82e63   ubuntu        "bash"                   6 days ago      Exited (127) 6 days ago                                                angry_pike
+9204cc2feff0   ubuntu        "bash"                   6 days ago      Exited (127) 6 days ago                                                infallible_curie
+146e1a61c043   ubuntu        "bash"                   6 days ago      Exited (0) 6 days ago                                                  silly_keller
+8fe60fc10efc   ubuntu        "bash"                   6 days ago      Exited (0) 6 days ago                                                  wonderful_haslett
+33cf814e33cb   ubuntu        "/bin/bash"              6 days ago      Exited (0) 6 days ago                                                  trusting_borg
+4ca7a6deaffb   ubuntu        "bash"                   6 days ago      Exited (0) 6 days ago                                                  intelligent_shamir
+7a5a88b127ea   ubuntu        "bash"                   6 days ago      Exited (0) 6 days ago                                                  trusting_tu
+f0d8170a300f   hello-world   "/hello"                 6 days ago      Exited (0) 6 days ago                                                  pensive_franklin
+52ecd57eda58   hello-world   "/hello"                 6 days ago      Exited (0) 6 days ago                                                  sweet_cartwright
+b1d953fa5217   hello-world   "/hello"                 6 days ago      Exited (0) 6 days ago                                                  epic_antonelli
